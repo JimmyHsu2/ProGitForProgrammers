@@ -15,5 +15,7 @@ namespace ProGitForProgrammers
         public DateTime PublicationDate { get; set; }
 
         public int Pages { get; set; }
+
+        // fix from Book1 branch
     }
 }
